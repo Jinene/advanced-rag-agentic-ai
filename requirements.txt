@@ -1,0 +1,14 @@
+langchain
+langgraph
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pypdf
+python-docx
+openpyxl
+tqdm
+typesense
+groq
+openai
+python-dotenv
